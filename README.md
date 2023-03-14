@@ -5,9 +5,9 @@ This system consists of 2 users:
 1. Admin
 2. Normal Staff
 
-![image](https://user-images.githubusercontent.com/76551048/224936518-3a4742f1-1c91-4ad1-af69-1c28c6ddd2fe.png)
+![image](https://user-images.githubusercontent.com/76551048/224938335-0856e012-38de-4b72-aeb3-721658d1f995.png)
 
-![image](https://user-images.githubusercontent.com/76551048/224937923-3c5196c5-a4e6-4c8f-a7c8-a321d5622ebb.png)
+![image](https://user-images.githubusercontent.com/76551048/224938465-60b9831e-15e7-40cb-9a87-dcec40efffee.png)
 
 ![image](https://user-images.githubusercontent.com/76551048/224937676-21299463-bf35-406a-a15e-018a3849aeef.png)
 
